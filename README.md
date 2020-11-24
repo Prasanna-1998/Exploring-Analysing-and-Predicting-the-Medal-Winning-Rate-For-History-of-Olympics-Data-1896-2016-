@@ -20,11 +20,13 @@ for evaluating the accuracy of our prediction. Our proposed model helps in analy
 Olympic History from the past 120 years and also implementing some inferential statistics with
 detailed visualizations. For Analysing this dataset, we are using PySpark and also some Big Data
 tools.
+
 Related Work:
 Some related work was proposed on real-time Exploratory data analysis of the Olympics
-participation data set, to understand the impact of historical world events on the international
-games.
+participation data set, to understand the impact of historical world events on the international games.
+
 Source: Shaswat Rungta https://github.com/srungta/120-years-of-olympics
+
 Source of original dataset:
 We have chosen the data from the Github Repository with the following
 link: (n.d.). Retrieved from https://github.com/srungta/120-years-of-olympics/tree/master/data
